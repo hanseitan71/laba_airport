@@ -149,7 +149,4 @@ print(person)
 person.travell('sea', random.randint(1,500))
 person.go_for_a_walk()
 
-def akim_lox(a):
-    return a
-
 
