@@ -151,3 +151,6 @@ person.go_for_a_walk()
 
 def pad():
     pass
+
+def get_py():
+    pass
